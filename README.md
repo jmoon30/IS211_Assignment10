@@ -1,4 +1,8 @@
 # IS211 Assignment 10 – Relational Databases (SQL and SQLite)
+John Moon <br>
+Prof. Ledon <br>
+IS 211 - Software App. Programming II <br>
+Oct. 28, 2025
 
 ## Overview
 This assignment demonstrates basic relational database concepts using **SQLite3** in Python.  
